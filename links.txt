@@ -1,1 +1,3 @@
 https://docs.emmet.io/cheat-sheet/
+
+https://betterprogramming.pub/serialization-and-deserialization-ba12fc3fbe23
